@@ -55,6 +55,12 @@
 |  7   |  43  | 陰入 |
 |  8   |  23  | 陽入 |
 
+## 安裝方法
+
+- [Windows](https://github.com/NGLI/rime-wugniu#windows-1)
+- [Linux、macOS](https://github.com/NGLI/rime-wugniu#linuxmacos-1)
+- [Android](https://github.com/NGLI/rime-wugniu#android-1)
+
 ## 拼音教程
 
 https://www.bilibili.com/video/av24054870
