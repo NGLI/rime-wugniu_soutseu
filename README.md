@@ -1,6 +1,6 @@
 # 蘇州吳語拼音輸入方案
 
-配方： ℞ **wugniu_soutseu**
+配方： ℞ **`wugniu_soutseu`**
 
 基於[Rime](https://rime.im/)的蘇州吳語拼音輸入方案。
 
