@@ -1,6 +1,6 @@
 # 蘇州吳語拼音輸入方案
 
-配方： ℞ **`wugniu_soutseu`**
+配方： ℞ **NGLI/wugniu_soutseu**
 
 基於[Rime](https://rime.im/)的蘇州吳語拼音輸入方案。
 
@@ -80,10 +80,11 @@ https://www.bilibili.com/video/av11828488
 
 https://www.wugniu.com/
 
-## 致謝
+## 鳴謝
 
 - [Rime](https://rime.im/)
 - [Trime](https://github.com/osfans/trime)
+- [iRime](https://github.com/jimmy54/iRime)
 
 ## 聯繫
 
