@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_soutseu
   name: 吳語（蘇州）
-  version: "2019.05.07"
+  version: "2019.05.30"
   author:
     - 字表作者：予安 ˂181065229@qq.com˃
     - 方案製作：雪心居士 ˂sihsin@live.com˃
@@ -65,7 +65,7 @@ speller:
 
     # 簡拼
     - abbrev/^([a-z]).+$/$1/
-    - abbrev/^([pmtnlszkg]h|[kg]n|ngh?|tsh?|dz).+$/$1/
+    - abbrev/^([pmtnlszckg]h|[kg]n|ngh?|tsh?|dz).+$/$1/
     # 容錯 au => ao
     - derive/au/ao/
     # c組聲母後自動加i
