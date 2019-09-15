@@ -4,7 +4,7 @@
 
 基於[Rime](https://rime.im/)的蘇州吳語拼音輸入方案。
 
-學堂式吳語拼音。
+拼音方案爲[吳語學堂](https://www.wugniu.com/)式拼音，同時兼容[吳語協會](http://wu-chinese.com/romanization/)式拼音。
 
 ## 音系及拼音方案
 
