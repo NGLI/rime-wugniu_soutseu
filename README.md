@@ -77,9 +77,9 @@
 
 ## 拼音教程
 
-https://www.bilibili.com/video/av24054870
+https://www.bilibili.com/video/BV1gp411d7ct
 
-https://www.bilibili.com/video/av11828488
+https://www.bilibili.com/video/BV16x411B71T
 
 ## 參考資料
 
