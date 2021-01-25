@@ -10,15 +10,78 @@
 
 ### 聲母
 
-|          |  清不送氣音  |    清送氣音    |    濁音     |  鼻音/邊音  |   清擦音    |     濁擦音      |
-| :------: | :----------: | :------------: | :---------: | :---------: | :---------: |   :---------:   |
-| **脣音** |  p \[p\] 北  |  ph \[pʰ\] 潑  | b \[b\] 蔔  | m \[m\] 摸  | f \[f\] 夫  |   v \[v\] 舞    |
-| **齒齦** |  t \[t\] 得  |  th \[tʰ\] 脫  | d \[d\] 奪  | n \[n\] 諾  |             |                 |
-| **齒齦** |              |                |             | l \[l\] 勒  |             |                 |
-| **齒齦** | ts \[ts\] 資 | tsh \[tsʰ\] 次 |             |             | s \[s\] 絲  |   z \[z\] 字    |
-| **齦齶** | c \[tɕ\] 機  | ch \[tɕʰ\] 期  | j \[dʑ\] 其 | gn \[ȵ\] 擬 | sh \[ɕ\] 希 |                 |
-| **軟齶** |  k \[k\] 葛  |  kh \[kʰ\] 克  | g \[ɡ\] 箇  | ng \[ŋ\] 魚 |             |                 |
-| **聲門** |  / \[\] 阿   |                |             |             | h \[h\] 黑  | gh/y/w \[ɦ\] 合 |
+<table>
+ <tr>
+  <th align="center"> </th>
+  <th align="center">清不送氣塞音/塞擦音</th>
+  <th align="center">清送氣塞音/塞擦音</th>
+  <th align="center">濁塞音/塞擦音</th>
+  <th align="center">鼻音/邊音</th>
+  <th align="center">清擦音</th>
+  <th align="center">濁擦音</th>
+ </tr>
+ <tr>
+  <th align="center">雙脣/脣齒</th>
+  <td align="center">p [p] 北</td>
+  <td align="center">ph [pʰ] 潑</td>
+  <td align="center">b [b] 蔔</td>
+  <td align="center">m [m] 摸</td>
+  <td align="center">f [f] 夫</td>
+  <td align="center">v [v] 舞</td>
+ </tr>
+ <tr>
+  <td rowspan="3" align="center"><b>齒齦</th>
+  <td align="center">t [t] 得</td>
+  <td align="center">th [tʰ] 脫</td>
+  <td align="center">d [d] 奪</td>
+  <td align="center">n [n] 諾</td>
+  <td align="center"> </td>
+  <td align="center"> </td>
+ </tr>
+ <tr>
+  <td align="center"> </td>
+  <td align="center"> </td>
+  <td align="center"> </td>
+  <td align="center">l [l] 勒</td>
+  <td align="center"> </td>
+  <td align="center"> </td>
+ </tr>
+ <tr>
+  <td align="center">ts [ts] 資</td>
+  <td align="center">tsh [tsʰ] 次</td>
+  <td align="center"> </td>
+  <td align="center"> </td>
+  <td align="center">s [s] 絲</td>
+  <td align="center">z [z] 字</td>
+ </tr>
+ <tr>
+  <th align="center">齦齶</th>
+  <td align="center">c [tɕ] 機</td>
+  <td align="center">ch [tɕʰ] 欺</td>
+  <td align="center">j [dʑ] 其</td>
+  <td align="center">gn [ȵ] 擬</td>
+  <td align="center">sh [ɕ] 希</td>
+  <td align="center"> </td>
+ </tr>
+ <tr>
+  <th align="center">軟齶</th>
+  <td align="center">k [k] 葛</td>
+  <td align="center">kh [kʰ] 克</td>
+  <td align="center">g [ɡ] 箇</td>
+  <td align="center">ng [ŋ] 魚</td>
+  <td align="center"> </td>
+  <td align="center"> </td>
+ </tr>
+ <tr>
+  <th align="center">聲門</th>
+  <td align="center">∅ [ ] 阿</td>
+  <td align="center"> </td>
+  <td align="center"> </td>
+  <td align="center"> </td>
+  <td align="center">h [h] 黑</td>
+  <td align="center">gh/y/w [ɦ] 合</td>
+ </tr>
+</table>
 
 ### 韻母
 
