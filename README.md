@@ -126,15 +126,15 @@
 
 韻母 i 和韻母 ie 在資料中多記爲 \[i\] 和 \[iɪ\]。但在現存的口音中，i 韻有擦化而 ie 韻無，二者實際爲擦化與不擦化的對立。各類資料也對此有說明，故本處據實際口音記作 \[iⱼ\] 和 \[i\]。iu 韻和 ioe 韻同理記作 \[yⱼ\] 和 \[y\]。
 
-## 安裝方法
+## [安裝方法](https://ngli.github.io/安装方法/安装方法.html)
 
-- [Windows](https://ngli.github.io/安装方法/Windows.html)
+- [Windows](https://ngli.github.io/安装方法/Windows.html)（[視頻](https://www.bilibili.com/video/BV1qb411L7xt)）
 - [macOS](https://ngli.github.io/安装方法/macOS.html)
 - [Linux](https://ngli.github.io/安装方法/Linux.html)
 - [Android](https://ngli.github.io/安装方法/Android.html)
 - [iOS](https://ngli.github.io/安装方法/iOS.html)
 
-## 使用
+## [使用](https://ngli.github.io/使用/使用.html)
 
 - [模糊音](https://ngli.github.io/使用/模糊音.html)
 - [輸入提示](https://ngli.github.io/使用/输入提示.html)
