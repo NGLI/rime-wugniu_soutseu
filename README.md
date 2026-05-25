@@ -166,6 +166,9 @@ https://www.wugniu.com/
 - [Rime](https://rime.im/)
 - [Trime](https://github.com/osfans/trime)
 - [iRime](https://github.com/jimmy54/iRime)
+- [「仓」输入法](https://github.com/imfuxiao/Hamster)
+- [fcitx5-rime](https://github.com/fcitx/fcitx5-rime)
+- [fcitx5-android](https://github.com/fcitx5-android)
 
 ## 聯繫
 
